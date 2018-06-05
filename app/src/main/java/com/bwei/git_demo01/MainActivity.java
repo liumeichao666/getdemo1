@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //获取资源ID
+        //获取资源ID  这是我添加的注释
         textView = findViewById(R.id.tv_textview1);
 
         //点击事件
