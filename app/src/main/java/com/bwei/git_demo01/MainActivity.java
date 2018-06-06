@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
         //获取资源ID  这是我添加的注释  这是发生冲突写的注释
         textView = findViewById(R.id.tv_textview1);
 
+        //我是dev 分支
+
         //点击事件
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
