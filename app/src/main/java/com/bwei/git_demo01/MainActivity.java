@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
 
         //我是dev 分支
 
+        //没有add 和 commit 直接切换分支
+
+
         //点击事件
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
